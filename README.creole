@@ -1,0 +1,1 @@
+An implementation of the OAuth protocol. One day version 2 will come along as well as server support.
